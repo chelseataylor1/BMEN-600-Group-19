@@ -22,4 +22,4 @@ Biggest Uncertainty:
 Our ability to get more specific in the project and also our ability to sort through genomic data. 
 
 Current Decision:
-Split between 2 Project.
+Undecided between both Projects.
