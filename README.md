@@ -20,3 +20,6 @@ Dataset: Genomic Study of the Vaginal Microbiome
 Huang L, Guo R, Li S, Wu X, Zhang Y, Guo S, Lv Y, Xiao Z, Kang J, Meng J, Zhou P, Ma J, You W, Zhang Y, Yu H, Zhao J, Huang G, Duan Z, Yan Q, Sun W. 2024. A multi-kingdom collection of 33,804 reference genomes for the human vaginal microbiome. Nature Microbiology doi:10.1038/s41564-024-01751-5 
 Biggest Uncertainty: 
 Our ability to get more specific in the project and also our ability to sort through genomic data. 
+
+Current Decision:
+Split between 2 Project.
