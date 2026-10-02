@@ -23,3 +23,6 @@ Our ability to get more specific in the project and also our ability to sort thr
 
 Current Decision:
 Undecided between both Projects.
+
+Parkinsons disease and smartwatch data https://www.physionet.org/content/parkinsons-disease-smartwatch/1.0.0/
+induced, cesarean, and induced-cesarean EHG records https://www.physionet.org/content/icehg-ds/1.0.1/ maybe we can look at this with non induced vaginal birth? predictions?
