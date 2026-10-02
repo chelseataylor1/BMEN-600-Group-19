@@ -37,7 +37,7 @@ Does baseline resting-state EEG predict an individual's cognitive vulnerability 
 Friday October 2 Class: 
 Today we decided on a dataset and general research question. 
 How does uterine electrical activity change between approximately 23 and 31 weeks of pregnancy, and do these longitudinal changes differ among pregnancies ending in induced, cesarean, and induced-cesarean delivery?
-https://www.physionet.org/content/icehg-ds/1.0.1/#methods
+https://www.physionet.org/content/icehg-ds/1.0.1/#methods. We also started on making the team plan, but it is not finished yet. Then we planned on meeting up on Tuesday to work more on it and the midterm research plan. 
 
 
 
