@@ -25,7 +25,7 @@ Current Decision:
 Undecided between both Projects.
 
 Parkinsons disease and smartwatch data https://www.physionet.org/content/parkinsons-disease-smartwatch/1.0.0/
-induced, cesarean, and induced-cesarean EHG records https://www.physionet.org/content/icehg-ds/1.0.1/ maybe we can look at this with non induced vaginal birth? predictions?
+induced, cesarean, and induced-cesarean EHG records https://www.physionet.org/content/icehg-ds/1.0.1/ maybe we can look at this with non induced vaginal birth? predictions? we can also/ do a comparisons between early and late EHG data
 
 
 Chelsea's Project proposal: 
