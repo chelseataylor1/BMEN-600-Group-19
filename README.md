@@ -33,3 +33,10 @@ Dataset: A resting-state EEG dataset for sleep deprivation (2024)
 https://doi.org/10.18112/openneuro.ds004902.v1.0.4 (Dataset)
 Does baseline resting-state EEG predict an individual's cognitive vulnerability to sleep deprivation? 
 
+
+Friday October 2 Class: 
+Today we decided on a dataset and general research question. 
+How does uterine electrical activity change between approximately 23 and 31 weeks of pregnancy, and do these longitudinal changes differ among pregnancies ending in induced, cesarean, and induced-cesarean delivery?
+
+
+
