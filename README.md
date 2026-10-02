@@ -26,3 +26,10 @@ Undecided between both Projects.
 
 Parkinsons disease and smartwatch data https://www.physionet.org/content/parkinsons-disease-smartwatch/1.0.0/
 induced, cesarean, and induced-cesarean EHG records https://www.physionet.org/content/icehg-ds/1.0.1/ maybe we can look at this with non induced vaginal birth? predictions?
+
+
+Chelsea's Project proposal: 
+Dataset: A resting-state EEG dataset for sleep deprivation (2024)
+https://doi.org/10.18112/openneuro.ds004902.v1.0.4 (Dataset)
+Does baseline resting-state EEG predict an individual's cognitive vulnerability to sleep deprivation? 
+
