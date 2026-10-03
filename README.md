@@ -27,20 +27,31 @@ Undecided between both Projects.
 Parkinsons disease and smartwatch data https://www.physionet.org/content/parkinsons-disease-smartwatch/1.0.0/
 Induced, cesarean, and induced-cesarean EHG records https://www.physionet.org/content/icehg-ds/1.0.1/ maybe we can look at this with non induced vaginal birth? predictions? we can also/ do a comparisons between early and late EHG data
 
-
 Chelsea's Project proposal: 
 Dataset: A resting-state EEG dataset for sleep deprivation (2024)
 https://doi.org/10.18112/openneuro.ds004902.v1.0.4 (Dataset)
 Does baseline resting-state EEG predict an individual's cognitive vulnerability to sleep deprivation? 
-
 
 Friday October 2 Class: 
 Today we decided on a dataset and general research question. 
 How does uterine electrical activity change between approximately 23 and 31 weeks of pregnancy, and do these longitudinal changes differ among pregnancies ending in induced, cesarean, and induced-cesarean delivery?
 https://www.physionet.org/content/icehg-ds/1.0.1/#methods. We also started on making the team plan, but it is not finished yet. Then we planned on meeting on Tuesday to further more and plan the midterm research. 
 
+Project Decision - * Go
+Team Plan/Contribution:
+Literature Review and Background Research - Gillian
+Dataset Interpretation - Chelsea
+Dataset cleaning/preprocessing - Jerold
+Analysis (statistics, machine learning, etc) -
+Validation and Evaluation - Everyone
+Interpretation -
+Documentation and Reproducibility - Everyone
 
+Activity 1: Build Your Research Argument
+Motivation: Why does this problem matter? Monitoring of uterine contractility (assessing labor progression), diagnosing preterm labor risk, and guiding interventions to mitigate complications for mother-baby.
 
+What are the gaps?
+What limitations/questions remain? Predicting EHG Signal/Lead 4.
 
-
-
+Find at least 2 sources to explain these:
+https://www.mdpi.com/1424-8220/26/15/4669 about EHG
