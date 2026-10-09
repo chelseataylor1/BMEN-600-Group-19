@@ -55,3 +55,7 @@ What limitations/questions remain? Predicting EHG Signal/Lead 4.
 
 Find at least 2 sources to explain these:
 https://www.mdpi.com/1424-8220/26/15/4669 about EHG
+
+
+OCTOBER 9: 
+Look at the dataset I added to GitHub. The output is in the code as well. 
