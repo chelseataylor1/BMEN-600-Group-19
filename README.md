@@ -1,6 +1,6 @@
 # BMEN 600 Project — Group 19
 **Authors:** Chelsea Taylor, Gillian Twible, Jerold Lukaszuk, Michael Cuch  
-**Date:** Fall 2026  
+**Date:** November 26, 2026  
 
 ## Research Question
 How do longitudinal changes in the median frequency of uterine EHG signals between approximately 23 and 31 weeks of gestation differ among pregnancies resulting in induced labour, cesarean delivery, or both, and which recording channels (S1–S4) demonstrate the greatest differences between groups?
