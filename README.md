@@ -14,8 +14,8 @@ This project uses the **Icelandic 16-electrode Electrohysterogram Database (`ice
 ### How to Access & Set Up the Data
 1. Download the `icehg-ds` (version 1.0.1) files directly from PhysioNet (open-access dataset).
 2. Upload the dataset folder to Google Drive at the following path:
-   `/content/drive/MyDrive/BMEN 600/EHG Dataset/files/icehg-ds/1.0.1`
-3. Pre-processed intermediate cohorts and extracted median frequency tables are also included directly in this repository under `data/` and `results/` so downstream analysis can be reproduced without re-downloading raw WFDB records:
+   * `/content/drive/MyDrive/BMEN 600/EHG Dataset/files/icehg-ds/1.0.1`
+5. Pre-processed intermediate cohorts and extracted median frequency tables are also included directly in this repository under `data/` and `results/` so downstream analysis can be reproduced without re-downloading raw WFDB records:
    * excel files Table1_induced.xlsx, Table2_cesarean.xlsx, and Table3_induced_cesarean.xlsx were used to make the tables of filtered data in colab in the file Filtered_data.ipynb.
 
 ---
